@@ -1,0 +1,27 @@
+## Visual Studio
+.vs
+.vscode
+.idea/
+.pytest_cache
+.cache
+
+## Python
+*.pyc
+*-checkpoint.ipynb
+*.ipynb_checkpoints
+
+## Cluster computing tools and scripts
+Cluster/.launcher
+
+## Data
+*.gz
+
+## Backups of files edited with emacs
+*~
+
+## Temporary files
+tmp*
+
+## Miscellaneous
+results
+notebooks
